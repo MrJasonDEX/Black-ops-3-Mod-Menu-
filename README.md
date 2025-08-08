@@ -2,21 +2,37 @@
 
 <div align="center">
   <h1>👋 Hi, I’m Jason!</h1>
-  <p>Welcome to my GitHub profile!</p>
+  <p>Welcome to my GitHub profile — dedicated to PS4 modding, tools, and community resources.</p>
 </div>
 
+---
+
 ## 🌱 What I'm Working On
-
-Currently, sharing and building PS4 projects for the community and sharing all new and pending projects for PS4 9.00 and under.
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/MrJasonDEX/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-gillan-6074182a6/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@MrJasonDEX)
-
-## 💡 Modding on PS4 9.00
-
-As of PS4 firmware 9.00, modding opportunities and methods have evolved. I'm actively exploring and sharing insights on modding techniques, tools, and projects compatible with the latest firmware. Stay tuned for updates and tutorials on modding your PS4 system.
+Currently creating and sharing PS4 projects for the community, with a focus on modding resources for multiple firmware versions — including legacy 9.00 and the latest jailbreak developments.
 
 ---
+
+## 🎮 PS4 Jailbreak Compatibility
+
+This repository and related tools are compatible with the following firmware versions:
+
+| Firmware | Status | Notes |
+|----------|--------|-------|
+| **9.00** | ✅ Fully supported | Stable jailbreak with many tools and payloads available |
+| **10.50 – 10.71** | ⚠️ Limited | Work in progress, partial exploits released |
+| **11.00 – 11.50** | ⚠️ Limited | Ongoing research and proof-of-concept payloads |
+| **12.02** | ✅ Supported | Recent jailbreak methods available — guides coming soon |
+
+> **Tip:** Always verify your current firmware version in PS4 Settings → System before attempting any jailbreak.
+
+---
+
+## 💡 Modding on PS4
+Modding allows you to enhance or change the way your PS4 games play.  
+This project provides files, tools, and guidance for injecting **GSC mod menus** into *Call of Duty: Black Ops 3*.
+
+---
+
 ## 🚀 How to Use This Project
 
 Follow these steps to set up and run the **Black Ops 3 Mod Menu**:
