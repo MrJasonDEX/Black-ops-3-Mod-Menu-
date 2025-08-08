@@ -1,16 +1,57 @@
-# Black Ops 3 Mod Menu for PS4 HEN (Firmware 5.05–12.02)
+l<div align="center">
 
-A comprehensive `.gsc` mod menu collection for **Call of Duty: Black Ops 3** on PS4 running under **Homebrew Enabler (HEN)**.  
-This repository contains the **Inja Hector loader** setup and curated menu files compatible with **firmware versions 5.05 through 12.02**.
+# 🎮 Black Ops 3 Mod Menu for PS4 HEN (5.05–12.02)
+
+![BO3 Banner](https://upload.wikimedia.org/wikipedia/en/0/05/Call_of_Duty_Black_Ops_III_cover.jpg)
+
+A premium `.gsc` mod menu collection for **Call of Duty: Black Ops 3** on PS4 running **Homebrew Enabler (HEN)**.  
+Compatible with firmware versions **5.05 through 12.02** — featuring **Inja Hector loader** integration.
+
+</div>
 
 ---
 
-## 📋 Features
-- **Supports firmware 5.05–12.02**
-- **Inja Hector loader** for easy script injection
-- Custom `.gsc` scripts for both zombies and multiplayer modes
-- Menus tailored for personal and offline/private use
-- Fully packaged update: `MuzzMan Official PS4 BO3 – 5.05 – 12.02 JB July 2025 Update.zip`
+## ✨ Features
+- ✅ **Full Firmware Support**: Works on 5.05, 6.xx, 7.xx, 9.xx, 10.xx, 11.xx, and 12.02
+- 🛠 **Inja Hector Loader**: Seamless `.gsc` script injection
+- 🎯 **Offline & Private Play Optimised**
+- 🧩 Includes multiple custom menus for **Zombies** and **Multiplayer**
+- 📦 Pre-packaged update: `MuzzMan Official PS4 BO3 – 5.05 – 12.02 JB July 2025 Update.zip`
+
+---
+
+## 📸 Screenshots (Placeholders)
+> Replace with your own gameplay captures for the best GitHub visual impact.
+
+![Menu Example](https://via.placeholder.com/800x400.png?text=BO3+Mod+Menu+Showcase)
+![Injection Process](https://via.placeholder.com/800x400.png?text=Inja+Hector+Injection)
+
+---
+
+## 📂 Installation
+
+### 1️⃣ Clone or Download
+```bash
+git clone https://github.com/MrJasonDEX/Black-ops-3-Mod-Menu-.git
+```
+Or download as a `.zip` and extract.
+
+### 2️⃣ Extract Main Zip
+Unzip:
+```
+MuzzMan Official PS4 BO3 – 5.05 – 12.02 JB July 2025 Update.zip
+```
+
+### 3️⃣ Transfer Files
+Copy `.gsc` files into your **BO3 game directory** on the PS4 (via FTP, USB, etc).
+
+### 4️⃣ Inject with Inja Hector
+- Start PS4 HEN
+- Run **Inja Hector Loader**
+- Inject the desired `.gsc` scripts
+
+### 5️⃣ Launch Game & Enjoy
+Use the menu activation combo (e.g., `R3 + Start`).
 
 ---
 
@@ -27,80 +68,46 @@ This repository contains the **Inja Hector loader** setup and curated menu files
 
 ---
 
-## 📂 What’s Included
-- Inja Hector loader files
-- Preconfigured `.gsc` mod menus
-- Ready-to-use zip update (July 2025)
-- Example configs and controls
-- README documentation
+## 💡 Usage Tips
+- 🔒 Use **offline/private matches only**
+- 💾 Backup original `.gsc` files
+- 🔄 Restart game if menu doesn’t appear
+- ⚠ Some maps may require reloading after injection
 
 ---
 
-## 📦 Installation Guide
+## 🛠 Troubleshooting
+**Menu Missing?**
+- Check correct BO3 directory
+- Restart after injection
 
-### 1️⃣ Download the Repository
-```bash
-git clone https://github.com/MrJasonDEX/Black-ops-3-Mod-Menu-.git
-```
+**Crashes?**
+- Some scripts aren’t map-compatible
+- Clear cache by rebooting PS4
 
-Or download as a `.zip` from GitHub and extract.
-
-### 2️⃣ Extract the Main Mod Menu Zip
-Inside the repository, find:
-```
-MuzzMan Official PS4 BO3 – 5.05 – 12.02 JB July 2025 Update.zip
-```
-Unzip this to a working directory on your computer.
-
-### 3️⃣ Transfer Files to PS4
-Use your preferred file transfer method to move the extracted `.gsc` files into the **Black Ops 3 game directory** on your PS4 HEN system.
-
-### 4️⃣ Launch and Inject
-1. Start your PS4 and enable **HEN**.
-2. Launch **Inja Hector**.
-3. Inject the `.gsc` scripts into BO3.
-
-### 5️⃣ Activate the Menu
-Use the in-game activation controls (often button combos like `R3 + Start` or instructions included in the zip).
-
----
-
-## ⚙ Usage Notes
-- Menus are designed for **offline/private matches** only.
-- Public online use **risks account bans**.
-- Always keep a **backup** of your original `.gsc` files.
-- Some menus may require map restarts to fully load.
-
----
-
-## ❓ Troubleshooting
-
-### Menu Not Showing?
-- Ensure the `.gsc` file was correctly placed in the correct BO3 directory.
-- Restart BO3 after injection.
-
-### Game Crashes?
-- Some `.gsc` scripts are incompatible with certain maps—test individually.
-- Clear cache by restarting PS4.
-
-### Can't Inject?
-- Check your HEN payload is running.
-- Verify you are on a supported firmware (5.05–12.02).
+**Injection Fails?**
+- Ensure HEN is active
+- Confirm firmware version
 
 ---
 
 ## 🙏 Credits
-- **MrJasonDEX** – Repository and script collection  
+- **MrJasonDEX** – Repo & script compilation  
 - **MuzzMan** – July 2025 BO3 menu update  
-- **Inja Hector Developers** – Loader for `.gsc` injection  
+- **Inja Hector Dev Team** – Loader tool  
 
 ---
 
 ## ⚠ Disclaimer
-This project is for **educational and preservation purposes** only.  
-It is intended for PS4 consoles running **HEN** on **firmware 5.05–12.02**.  
-Use at your own risk. The author assumes no responsibility for bans, bricking, or data loss.
+This repository is for **educational & preservation purposes only**.  
+The developer is **not responsible** for bans, bricking, or damages.  
+Use only on **HEN-enabled PS4 systems** within **firmware 5.05–12.02**.
 
 ---
 
-Enjoy modding responsibly and keep backups of your original files!
+<div align="center">
+
+### 🚀 Mod Smart. Play Safe. Have Fun.
+![Divider](https://via.placeholder.com/800x50/000000/FFFFFF?text=★+Enjoy+Your+Modding+Experience+★)
+
+</div>
