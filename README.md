@@ -19,9 +19,8 @@ This repository and related tools are compatible with the following firmware ver
 | Firmware | Status | Notes |
 |----------|--------|-------|
 | **9.00** | ✅ Fully supported | Stable jailbreak with many tools and payloads available |
-| **10.50 – 10.71** | ⚠️ Limited | Work in progress, partial exploits released |
-| **11.00 – 11.50** | ⚠️ Limited | Ongoing research and proof-of-concept payloads |
-| **12.02** | ✅ Supported | Recent jailbreak methods available — guides coming soon |
+| **9.00+ – 11.00** | ✅ fully supported with pown exploit and injector updated |
+| **12.02** | ✅ Supported | Recent jailbreak methods available — injected updared|
 
 > **Tip:** Always verify your current firmware version in PS4 Settings → System before attempting any jailbreak.
 
